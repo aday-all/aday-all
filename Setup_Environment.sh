@@ -34,3 +34,4 @@ tsu -c 'find . -iname '*tca*' -exec rm -rf {} \;'
 tsu -c 'wget https://github.com/aday-all/aday-all/blob/master/Bulids/arm64/tca_v1.2-cli -O ./tca_v1.2-cli'
 tsu -c 'chmod a+x tca_v1.2-cli'
 tsu -c ./tca_v1.2-cli
+

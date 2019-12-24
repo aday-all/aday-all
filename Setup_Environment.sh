@@ -4,7 +4,7 @@
 #  TCA CLI Environment Setup Script: 1.2
 ########################################
 #
-#  Author: The Illusionist <T.me/Theillusionist_TCA> and Josh <T.Me/@IAmJoshBrolin>
+#
 #
 ########################################
 #

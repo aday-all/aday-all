@@ -1,0 +1,50 @@
+fc00:1111:2222:3333:4444 *#
+2001:A124::8888 *#
+Fe80::7  
+127.0.0.1  localhost
+127.0.0.1  localhost.localdomain
+127.0.0.1  local
+2001:A124::8888　.qq.com
+2001:0500:0005::   .cn
+255.255.255.255 broadcasthost
+::1 localhost
+10.0.0.2 .qq.com
+0:0:0:0:0:ffff:7d27:341a .qq.com
+0.0.0.0 .helpshift.com 
+0:0:0:0:0:ffff:36db:9b1b .helpshift.com
+10.0.0.2 .cn
+0:0:0:0:0:ffff:771c:f342 .cn
+10.0.0.2 vmp.qq.com
+0:0:0:0:0:ffff:65e2:e9f6 vmp.qq.com
+10.0.0.2  .userapi.com
+0:0:0:0:0:ffff:cbcd:8a0f .userapi.com
+fc00:1111:2222:3333:4444
+Fe80::7
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0:0:0:0:0:ffff:2a00:d25 2404:6800:4001:805::200e
+0:0:0:0:0:ffff:2a00:d25 2404:6800:4001:805::200e
+0:0:0:0:0:ffff:2a00:d25 2600:1f1c:c01:3100:1c3f:6fcd:e95f:3e9
+0:0:0:0:0:ffff:2a00:d25 2600:1f1c:c01:3102:7bac:fdd5:2e29:57ca
+fe80::2 ip6-block
+ff02::4 ##
+::1 localhost
+#--------- Ipv6 --------#
+10.0.0.2 .qq.com
+10.0.0.2 .cn
+10.0.0.2 .helpshift.com
+10.0.0.2 api.phenixos.com
+8:8:8:8:fe80::1%lo0 .qq.com
+8:8:8:8:fe80::1%lo0 .helpshift.com
+8:8:8:8:fe80::1%lo0 .cn
+#--------- End Loop ----------#

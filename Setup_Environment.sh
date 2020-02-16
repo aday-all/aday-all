@@ -15,6 +15,9 @@
 # Update and upgrade
 pkg up -y && pkg upgrade -y
 
+# Update tsu
+pkg install tsu -y
+
 # Switch permissive
 su -c 'setenforce 0'
 

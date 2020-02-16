@@ -1,4 +1,4 @@
-#!/data/data/com.termux/files/usr/bin/bash env
+#!/data/data/com.termux/files/usr/bin/bash
 
 ########################################
 #  TCA CLI Environment Setup Script: 1.2

@@ -1,0 +1,6 @@
+10.0.0.1 aday.com
+127.0.0.1       localhost
+::1             ip6-localhost
+
+10.0.0.1 .com
+10.0.0.1 .net
